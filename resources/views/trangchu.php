@@ -1,0 +1,1 @@
+hihi who am a superman, he is name : <?=$ai?> : <?=$count?>
